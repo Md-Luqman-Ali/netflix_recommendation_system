@@ -38,6 +38,7 @@ with open("movies_list_small.pickle", "rb") as f:
   dataframe = None
 
 st.title("""
+Welcome to Md Luqman Ali project
 Netflix Recommendation System
 This is an Content Based Recommender System made on implicit ratings :smile:.
 """)
