@@ -40,6 +40,7 @@ with open("movies_list_small.pickle", "rb") as f:
 
 
 st.title("""
+
 Welcome to Md Luqman Ali Project
 """)
 
